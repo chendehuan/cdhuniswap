@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5740635a2ec14458444b9baad38cde43",
+    "revision": "2cc5bbc05d11249139e0d9913d5f00c2",
     "url": "/chendehuan/cdhuniswap/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chendehuan/cdhuniswap/static/js/9.d72a9b05.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a7fd91f34737a12ecc99",
-    "url": "/chendehuan/cdhuniswap/static/js/main.4b851e79.chunk.js"
+    "revision": "b6723089f040b3f60720",
+    "url": "/chendehuan/cdhuniswap/static/js/main.a951d7fd.chunk.js"
   },
   {
     "revision": "989ff9ab9e92b488e65e",

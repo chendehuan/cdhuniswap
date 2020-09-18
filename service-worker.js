@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chendehuan/cdhuniswap/precache-manifest.4e5e509779293a27c41f297c852d4689.js"
+  "/chendehuan/cdhuniswap/precache-manifest.8915bf853cf38cd53dc33e08bea82b8b.js"
 );
 
 self.addEventListener('message', (event) => {
